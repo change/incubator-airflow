@@ -30,3 +30,5 @@ rat-results.txt
 /.tox/
 venv
 *.swp
+
+*.pem
